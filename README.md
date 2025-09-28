@@ -1,4 +1,3 @@
-Small automation labs for systems/cloud engineering.
 # foundations-scripts
 
 Small automation labs for systems/cloud engineering.
