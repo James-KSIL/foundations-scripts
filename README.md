@@ -9,3 +9,8 @@ Small automation labs for systems/cloud engineering.
 ---
 
 ## 📂 Project Structure
+foundations-scripts/
+├── logs_lab/
+│ ├── list_logs.ps1 # PowerShell implementation
+│ └── list_logs.sh # Bash implementation
+└── README.md # Project overview
